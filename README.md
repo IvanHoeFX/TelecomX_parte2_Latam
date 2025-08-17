@@ -77,7 +77,7 @@ Este proyecto desarrolla un sistema de **predicción de churn** para clientes de
 - La **Logistic Regression con SMOTE** mejoró el balance entre *precision* y *recall* en comparación con la versión estándar.
 - Las visualizaciones permiten contrastar claramente el rendimiento *train vs test* y analizar posibles **overfitting**.
 
-👉 El detalle completo está en [`docs/report/final_report.md`](docs/report/final_report.md).
+👉 El detalle completo está en Informe_Final.
 
 ---
 
